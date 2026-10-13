@@ -1,0 +1,57 @@
+lname: Trigger Saham
+
+on:
+  schedule:
+    - cron: "*/30 2-8 * * 1-5"   # Intraday: tiap 30 menit, 09:00-15:30 WIB
+    - cron: "30 9 * * 1-5"       # EOD: 16:30 WIB
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "eod atau intraday"
+        default: "eod"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trigger-saham
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Tentukan mode
+        id: m
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "mode=${{ inputs.mode }}" >> $GITHUB_OUTPUT
+            echo "extra=--force" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.schedule }}" = "30 9 * * 1-5" ]; then
+            echo "mode=eod" >> $GITHUB_OUTPUT
+          else
+            echo "mode=intraday" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Jalankan scanner
+        run: python scanner.py --mode ${{ steps.m.outputs.mode }} ${{ steps.m.outputs.extra }}
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+      - name: Simpan state anti-duplikat
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet || (git commit -m "update state [skip ci]" && git push)
