@@ -5,9 +5,17 @@
    "Naik",
    "Volume"
   ],
+  "ALKA": [
+   "Naik",
+   "Volume"
+  ],
   "ARCI": [
    "Naik",
    "Volume"
+  ],
+  "ASPI": [
+   "Breakout",
+   "Naik"
   ],
   "ASPR": [
    "Breakout",
@@ -37,6 +45,10 @@
    "Naik",
    "Volume"
   ],
+  "CTTH": [
+   "Naik",
+   "Volume"
+  ],
   "DAAZ": [
    "Breakout",
    "Naik",
@@ -44,6 +56,14 @@
   ],
   "DKHH": [
    "Breakout",
+   "Naik",
+   "Volume"
+  ],
+  "GRPH": [
+   "Naik",
+   "Volume"
+  ],
+  "HATM": [
    "Naik",
    "Volume"
   ],
@@ -68,6 +88,12 @@
    "Naik",
    "Volume"
   ],
+  "MIDI": [
+   "Breakout",
+   "Naik",
+   "SuperTrend",
+   "Volume"
+  ],
   "NAYZ": [
    "Breakout",
    "Naik",
@@ -87,6 +113,10 @@
    "Naik",
    "Volume"
   ],
+  "PWON": [
+   "SuperTrend",
+   "Volume"
+  ],
   "SAFE": [
    "Naik",
    "Volume"
@@ -94,6 +124,10 @@
   "SEMA": [
    "Naik",
    "Volume"
+  ],
+  "SMGR": [
+   "Naik",
+   "SuperTrend"
   ],
   "SMMT": [
    "Breakout",
@@ -107,9 +141,14 @@
   ],
   "TCPI": [
    "Naik",
+   "SuperTrend",
    "Volume"
   ],
   "TOWR": [
+   "Naik",
+   "Volume"
+  ],
+  "UANG": [
    "Naik",
    "Volume"
   ],
