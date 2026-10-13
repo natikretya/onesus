@@ -1,0 +1,8 @@
+# Daftar kode saham (tanpa .JK). Satu baris boleh berisi banyak kode.
+# Ini daftar awal. Ganti dengan daftar lengkap ~900 saham dari IDX
+# (lihat README bagian "Daftar saham lengkap").
+BBCA BBRI BMRI BBNI BRIS ARTO TLKM EXCL ISAT ASII UNTR
+ADRO PTBA ITMG HRUM MEDC PGAS AKRA ANTM INCO MDKA MBMA NCKL
+PTRO TPIA BRPT BREN CUAN PGEO AMMN DSSA ESSA INKP TKIM
+UNVR ICBP INDF KLBF CPIN AMRT MAPI ACES SMGR INTP JSMR
+GOTO BUKA EMTK
