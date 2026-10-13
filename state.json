@@ -1,4 +1,121 @@
 {
  "date": "2026-10-13",
- "sent": {}
+ "sent": {
+  "AHAP": [
+   "Naik",
+   "Volume"
+  ],
+  "ARCI": [
+   "Naik",
+   "Volume"
+  ],
+  "ASPR": [
+   "Breakout",
+   "Naik",
+   "SuperTrend",
+   "Volume"
+  ],
+  "BEER": [
+   "Naik",
+   "Volume"
+  ],
+  "BIKE": [
+   "Breakout",
+   "Naik",
+   "Volume"
+  ],
+  "BLUE": [
+   "Naik",
+   "Volume"
+  ],
+  "BRRC": [
+   "Naik",
+   "Volume"
+  ],
+  "CLEO": [
+   "Breakout",
+   "Naik",
+   "Volume"
+  ],
+  "DAAZ": [
+   "Breakout",
+   "Naik",
+   "Volume"
+  ],
+  "DKHH": [
+   "Breakout",
+   "Naik",
+   "Volume"
+  ],
+  "IDEA": [
+   "Breakout",
+   "Naik",
+   "Volume"
+  ],
+  "LEAD": [
+   "Naik",
+   "Volume"
+  ],
+  "MAHA": [
+   "Naik",
+   "Volume"
+  ],
+  "MBSS": [
+   "Naik",
+   "Volume"
+  ],
+  "MEJA": [
+   "Naik",
+   "Volume"
+  ],
+  "NAYZ": [
+   "Breakout",
+   "Naik",
+   "Volume"
+  ],
+  "OMED": [
+   "Breakout",
+   "Volume"
+  ],
+  "PBSA": [
+   "Breakout",
+   "Naik",
+   "Volume"
+  ],
+  "PCAR": [
+   "Breakout",
+   "Naik",
+   "Volume"
+  ],
+  "SAFE": [
+   "Naik",
+   "Volume"
+  ],
+  "SEMA": [
+   "Naik",
+   "Volume"
+  ],
+  "SMMT": [
+   "Breakout",
+   "Naik",
+   "Volume"
+  ],
+  "STRK": [
+   "Breakout",
+   "Naik",
+   "Volume"
+  ],
+  "TCPI": [
+   "Naik",
+   "Volume"
+  ],
+  "TOWR": [
+   "Naik",
+   "Volume"
+  ],
+  "VERN": [
+   "Naik",
+   "Volume"
+  ]
+ }
 }
