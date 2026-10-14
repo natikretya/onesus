@@ -1,61 +1,26 @@
 {
- "date": "2026-10-13",
+ "date": "2026-10-14",
  "sent": {
-  "AHAP": [
-   "Naik",
-   "Volume"
-  ],
-  "ALKA": [
-   "Naik",
-   "Volume"
-  ],
-  "ARCI": [
-   "Naik",
-   "Volume"
-  ],
-  "ASPI": [
-   "Breakout",
-   "Naik"
-  ],
-  "ASPR": [
-   "Breakout",
-   "Naik",
-   "SuperTrend",
-   "Volume"
-  ],
-  "BEER": [
-   "Naik",
-   "Volume"
-  ],
   "BIKE": [
    "Breakout",
    "Naik",
    "Volume"
   ],
-  "BLUE": [
+  "BRPT": [
    "Naik",
    "Volume"
   ],
-  "BRRC": [
-   "Naik",
-   "Volume"
-  ],
-  "CLEO": [
+  "CBDK": [
    "Breakout",
    "Naik",
+   "SuperTrend",
    "Volume"
   ],
   "CTTH": [
    "Naik",
    "Volume"
   ],
-  "DAAZ": [
-   "Breakout",
-   "Naik",
-   "Volume"
-  ],
-  "DKHH": [
-   "Breakout",
+  "EURO": [
    "Naik",
    "Volume"
   ],
@@ -64,96 +29,46 @@
    "Volume"
   ],
   "HATM": [
-   "Naik",
-   "Volume"
-  ],
-  "IDEA": [
    "Breakout",
+   "Naik"
+  ],
+  "KBLV": [
    "Naik",
    "Volume"
   ],
-  "LEAD": [
+  "LAJU": [
    "Naik",
    "Volume"
   ],
-  "MAHA": [
-   "Naik",
-   "Volume"
-  ],
-  "MBSS": [
-   "Naik",
-   "Volume"
-  ],
-  "MEJA": [
-   "Naik",
-   "Volume"
-  ],
-  "MIDI": [
-   "Breakout",
+  "PANI": [
    "Naik",
    "SuperTrend",
    "Volume"
   ],
-  "NAYZ": [
+  "PRDA": [
    "Breakout",
-   "Naik",
-   "Volume"
-  ],
-  "OMED": [
-   "Breakout",
-   "Volume"
-  ],
-  "PBSA": [
-   "Breakout",
-   "Naik",
-   "Volume"
-  ],
-  "PCAR": [
-   "Breakout",
-   "Naik",
    "Volume"
   ],
   "PWON": [
-   "SuperTrend",
+   "Breakout",
    "Volume"
   ],
-  "SAFE": [
+  "SICO": [
    "Naik",
    "Volume"
   ],
-  "SEMA": [
-   "Naik",
-   "Volume"
-  ],
-  "SMGR": [
+  "SMRA": [
    "Naik",
    "SuperTrend"
-  ],
-  "SMMT": [
-   "Breakout",
-   "Naik",
-   "Volume"
   ],
   "STRK": [
    "Breakout",
    "Naik",
    "Volume"
   ],
-  "TCPI": [
+  "TRON": [
    "Naik",
    "SuperTrend",
-   "Volume"
-  ],
-  "TOWR": [
-   "Naik",
-   "Volume"
-  ],
-  "UANG": [
-   "Naik",
-   "Volume"
-  ],
-  "VERN": [
-   "Naik",
    "Volume"
   ]
  }
