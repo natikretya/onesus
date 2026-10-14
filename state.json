@@ -1,6 +1,10 @@
 {
  "date": "2026-10-14",
  "sent": {
+  "BAIK": [
+   "Naik",
+   "Volume"
+  ],
   "BIKE": [
    "Breakout",
    "Naik",
@@ -10,9 +14,17 @@
    "Naik",
    "Volume"
   ],
+  "BTPS": [
+   "SuperTrend",
+   "Volume"
+  ],
   "CBDK": [
    "Breakout",
    "Naik",
+   "SuperTrend",
+   "Volume"
+  ],
+  "CTRA": [
    "SuperTrend",
    "Volume"
   ],
@@ -20,7 +32,15 @@
    "Naik",
    "Volume"
   ],
+  "DKHH": [
+   "Naik",
+   "Volume"
+  ],
   "EURO": [
+   "Naik",
+   "Volume"
+  ],
+  "GEMS": [
    "Naik",
    "Volume"
   ],
@@ -30,13 +50,26 @@
   ],
   "HATM": [
    "Breakout",
-   "Naik"
+   "Naik",
+   "Volume"
   ],
   "KBLV": [
    "Naik",
    "Volume"
   ],
   "LAJU": [
+   "Naik",
+   "Volume"
+  ],
+  "MEDC": [
+   "Naik",
+   "Volume"
+  ],
+  "MGNA": [
+   "Naik",
+   "Volume"
+  ],
+  "MPXL": [
    "Naik",
    "Volume"
   ],
@@ -59,7 +92,8 @@
   ],
   "SMRA": [
    "Naik",
-   "SuperTrend"
+   "SuperTrend",
+   "Volume"
   ],
   "STRK": [
    "Breakout",
