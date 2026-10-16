@@ -1,67 +1,9 @@
 {
- "date": "2026-10-15",
+ "date": "2026-10-16",
  "sent": {
-  "ACES": [
-   "Breakout",
-   "Naik",
-   "SuperTrend",
-   "Volume"
-  ],
-  "AKKU": [
-   "Breakout",
-   "Naik",
-   "Volume"
-  ],
-  "BIKE": [
-   "Breakout",
-   "Naik",
-   "Volume"
-  ],
-  "BRRC": [
-   "Naik",
-   "Volume"
-  ],
-  "CMRY": [
-   "Breakout",
-   "Volume"
-  ],
-  "DEFI": [
-   "Naik",
-   "Volume"
-  ],
-  "DKHH": [
-   "Breakout",
-   "Naik",
-   "Volume"
-  ],
-  "IDEA": [
+  "TRUK": [
    "Breakout",
    "Naik"
-  ],
-  "KKES": [
-   "Naik",
-   "Volume"
-  ],
-  "PCAR": [
-   "Naik",
-   "Volume"
-  ],
-  "PRDA": [
-   "Breakout",
-   "Volume"
-  ],
-  "PWON": [
-   "Breakout",
-   "Volume"
-  ],
-  "SBMA": [
-   "Breakout",
-   "Naik",
-   "Volume"
-  ],
-  "SQMI": [
-   "Naik",
-   "Volume"
   ]
  }
 }
