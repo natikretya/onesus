@@ -1,9 +1,23 @@
 {
- "date": "2026-10-16",
+ "date": "2026-10-19",
  "sent": {
+  "BIKE": [
+   "Breakout",
+   "Naik",
+   "Volume"
+  ],
+  "BREN": [
+   "Naik",
+   "Volume"
+  ],
+  "TMPO": [
+   "Naik",
+   "Volume"
+  ],
   "TRUK": [
    "Breakout",
-   "Naik"
+   "Naik",
+   "Volume"
   ]
  }
 }
