@@ -1,29 +1,103 @@
 {
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "sent": {
-  "BIKE": [
-   "Breakout",
+  "ADMR": [
    "Naik",
    "Volume"
   ],
-  "BREN": [
+  "ARCI": [
    "Naik",
    "Volume"
   ],
-  "DPUM": [
+  "ASII": [
    "Naik",
    "Volume"
   ],
-  "TMPO": [
+  "BBNI": [
+   "Naik",
+   "Volume"
+  ],
+  "BBRI": [
+   "Naik",
+   "Volume"
+  ],
+  "BJTM": [
+   "Naik",
+   "Volume"
+  ],
+  "BMRI": [
+   "Naik",
+   "Volume"
+  ],
+  "BRPT": [
+   "Naik",
+   "Volume"
+  ],
+  "CBRE": [
+   "Naik",
+   "Volume"
+  ],
+  "CNMA": [
+   "Naik",
+   "Volume"
+  ],
+  "DEFI": [
+   "Naik",
+   "Volume"
+  ],
+  "DKHH": [
+   "Naik",
+   "Volume"
+  ],
+  "ERAL": [
+   "Naik",
+   "Volume"
+  ],
+  "FORE": [
+   "Naik",
+   "Volume"
+  ],
+  "GEMS": [
+   "Naik",
+   "Volume"
+  ],
+  "GJTL": [
+   "Naik",
+   "Volume"
+  ],
+  "HRUM": [
+   "Naik",
+   "Volume"
+  ],
+  "JELI": [
+   "Naik",
+   "Volume"
+  ],
+  "KOTA": [
+   "Naik",
+   "Volume"
+  ],
+  "MPXL": [
+   "Naik",
+   "Volume"
+  ],
+  "SMAR": [
+   "Naik",
+   "Volume"
+  ],
+  "TLKM": [
+   "Naik",
+   "Volume"
+  ],
+  "TPIA": [
    "Naik",
    "Volume"
   ],
   "TRUK": [
    "Breakout",
-   "Naik",
-   "Volume"
+   "Naik"
   ],
-  "VISI": [
+  "WIFI": [
    "Naik",
    "Volume"
   ]
