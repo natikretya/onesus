@@ -1,7 +1,31 @@
 {
  "date": "2026-10-20",
  "sent": {
+  "AADI": [
+   "Naik",
+   "Volume"
+  ],
+  "AALI": [
+   "Naik",
+   "Volume"
+  ],
   "ADMR": [
+   "Naik",
+   "Volume"
+  ],
+  "ADRO": [
+   "Naik",
+   "Volume"
+  ],
+  "AMMN": [
+   "Naik",
+   "Volume"
+  ],
+  "AMRT": [
+   "Naik",
+   "Volume"
+  ],
+  "ANTM": [
    "Naik",
    "Volume"
   ],
@@ -13,6 +37,14 @@
    "Naik",
    "Volume"
   ],
+  "ATAP": [
+   "Naik",
+   "Volume"
+  ],
+  "BBCA": [
+   "Naik",
+   "Volume"
+  ],
   "BBNI": [
    "Naik",
    "Volume"
@@ -21,7 +53,19 @@
    "Naik",
    "Volume"
   ],
+  "BBTN": [
+   "Naik",
+   "Volume"
+  ],
+  "BEST": [
+   "Naik",
+   "Volume"
+  ],
   "BJTM": [
+   "Naik",
+   "Volume"
+  ],
+  "BLUE": [
    "Naik",
    "Volume"
   ],
@@ -29,11 +73,44 @@
    "Naik",
    "Volume"
   ],
+  "BNBR": [
+   "Naik",
+   "Volume"
+  ],
+  "BREN": [
+   "Naik",
+   "Volume"
+  ],
   "BRPT": [
    "Naik",
    "Volume"
   ],
+  "BSML": [
+   "Naik",
+   "Volume"
+  ],
+  "BUKA": [
+   "Naik",
+   "Volume"
+  ],
+  "BULL": [
+   "Naik",
+   "Volume"
+  ],
+  "BUMI": [
+   "Naik",
+   "Volume"
+  ],
   "CBRE": [
+   "Naik",
+   "SuperTrend",
+   "Volume"
+  ],
+  "CDIA": [
+   "Naik",
+   "Volume"
+  ],
+  "CLEO": [
    "Naik",
    "Volume"
   ],
@@ -41,7 +118,19 @@
    "Naik",
    "Volume"
   ],
+  "COIN": [
+   "Naik",
+   "Volume"
+  ],
+  "DATA": [
+   "Naik",
+   "Volume"
+  ],
   "DEFI": [
+   "Naik",
+   "Volume"
+  ],
+  "DEWA": [
    "Naik",
    "Volume"
   ],
@@ -49,7 +138,31 @@
    "Naik",
    "Volume"
   ],
+  "DMAS": [
+   "Naik",
+   "Volume"
+  ],
+  "DOOH": [
+   "Naik",
+   "Volume"
+  ],
+  "ELSA": [
+   "Naik",
+   "Volume"
+  ],
+  "ERAA": [
+   "Naik",
+   "Volume"
+  ],
   "ERAL": [
+   "Naik",
+   "Volume"
+  ],
+  "ESSA": [
+   "Naik",
+   "Volume"
+  ],
+  "EXCL": [
    "Naik",
    "Volume"
   ],
@@ -65,11 +178,51 @@
    "Naik",
    "Volume"
   ],
+  "GRPH": [
+   "Naik",
+   "Volume"
+  ],
+  "HRTA": [
+   "Naik",
+   "Volume"
+  ],
   "HRUM": [
    "Naik",
    "Volume"
   ],
+  "IATA": [
+   "Naik",
+   "Volume"
+  ],
+  "INDY": [
+   "Naik",
+   "Volume"
+  ],
+  "INET": [
+   "Naik",
+   "Volume"
+  ],
+  "INKP": [
+   "Naik",
+   "Volume"
+  ],
+  "INTP": [
+   "Breakout",
+   "Naik"
+  ],
   "JELI": [
+   "Naik",
+   "Volume"
+  ],
+  "JSMR": [
+   "Naik",
+   "Volume"
+  ],
+  "KEEN": [
+   "Naik",
+   "SuperTrend"
+  ],
+  "KETR": [
    "Naik",
    "Volume"
   ],
@@ -77,7 +230,77 @@
    "Naik",
    "Volume"
   ],
+  "MAPA": [
+   "Naik",
+   "Volume"
+  ],
+  "MGLV": [
+   "Naik",
+   "Volume"
+  ],
+  "MIDI": [
+   "Naik",
+   "Volume"
+  ],
+  "MPMX": [
+   "Naik",
+   "Volume"
+  ],
   "MPXL": [
+   "Breakout",
+   "Naik",
+   "Volume"
+  ],
+  "MSTI": [
+   "Naik",
+   "Volume"
+  ],
+  "NCKL": [
+   "Naik",
+   "Volume"
+  ],
+  "NRCA": [
+   "Naik",
+   "Volume"
+  ],
+  "OMED": [
+   "Naik",
+   "Volume"
+  ],
+  "PGAS": [
+   "Naik",
+   "Volume"
+  ],
+  "PGEO": [
+   "Naik",
+   "SuperTrend",
+   "Volume"
+  ],
+  "POWR": [
+   "Naik",
+   "Volume"
+  ],
+  "PTBA": [
+   "Naik",
+   "Volume"
+  ],
+  "PWON": [
+   "Naik",
+   "Volume"
+  ],
+  "PYFA": [
+   "Naik",
+   "Volume"
+  ],
+  "RAJA": [
+   "Naik",
+   "Volume"
+  ],
+  "ROCK": [
+   "Naik",
+   "Volume"
+  ],
+  "SCMA": [
    "Naik",
    "Volume"
   ],
@@ -85,7 +308,36 @@
    "Naik",
    "Volume"
   ],
+  "SMSM": [
+   "Naik",
+   "SuperTrend",
+   "Volume"
+  ],
+  "SRTG": [
+   "Naik",
+   "Volume"
+  ],
+  "SSIA": [
+   "Naik",
+   "Volume"
+  ],
+  "STRK": [
+   "Naik",
+   "Volume"
+  ],
+  "TINS": [
+   "Naik",
+   "Volume"
+  ],
+  "TKIM": [
+   "Naik",
+   "Volume"
+  ],
   "TLKM": [
+   "Naik",
+   "Volume"
+  ],
+  "TOBA": [
    "Naik",
    "Volume"
   ],
@@ -96,6 +348,10 @@
   "TRUK": [
    "Breakout",
    "Naik"
+  ],
+  "VISI": [
+   "Naik",
+   "Volume"
   ],
   "WIFI": [
    "Naik",
