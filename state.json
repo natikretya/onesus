@@ -1,361 +1,36 @@
 {
- "date": "2026-10-20",
+ "date": "2026-10-21",
  "sent": {
-  "AADI": [
+  "BNGA": [
    "Naik",
-   "Volume"
-  ],
-  "AALI": [
-   "Naik",
-   "Volume"
-  ],
-  "ADMR": [
-   "Naik",
-   "Volume"
-  ],
-  "ADRO": [
-   "Naik",
-   "Volume"
-  ],
-  "AMMN": [
-   "Naik",
-   "Volume"
-  ],
-  "AMRT": [
-   "Naik",
-   "Volume"
-  ],
-  "ANTM": [
-   "Naik",
-   "Volume"
-  ],
-  "ARCI": [
-   "Naik",
-   "Volume"
-  ],
-  "ASII": [
-   "Naik",
-   "Volume"
-  ],
-  "ATAP": [
-   "Naik",
-   "Volume"
-  ],
-  "BBCA": [
-   "Naik",
-   "Volume"
-  ],
-  "BBNI": [
-   "Naik",
-   "Volume"
-  ],
-  "BBRI": [
-   "Naik",
-   "Volume"
-  ],
-  "BBTN": [
-   "Naik",
-   "Volume"
-  ],
-  "BEST": [
-   "Naik",
-   "Volume"
-  ],
-  "BJTM": [
-   "Naik",
-   "Volume"
-  ],
-  "BLUE": [
-   "Naik",
-   "Volume"
-  ],
-  "BMRI": [
-   "Naik",
-   "Volume"
-  ],
-  "BNBR": [
-   "Naik",
+   "SuperTrend",
    "Volume"
   ],
   "BREN": [
    "Naik",
    "Volume"
   ],
-  "BRPT": [
-   "Naik",
-   "Volume"
-  ],
-  "BSML": [
-   "Naik",
-   "Volume"
-  ],
-  "BUKA": [
-   "Naik",
-   "Volume"
-  ],
-  "BULL": [
-   "Naik",
-   "Volume"
-  ],
-  "BUMI": [
-   "Naik",
-   "Volume"
-  ],
-  "CBRE": [
-   "Naik",
-   "SuperTrend",
-   "Volume"
-  ],
-  "CDIA": [
-   "Naik",
-   "Volume"
-  ],
-  "CLEO": [
-   "Naik",
-   "Volume"
-  ],
-  "CNMA": [
-   "Naik",
-   "Volume"
-  ],
-  "COIN": [
-   "Naik",
-   "Volume"
-  ],
-  "DATA": [
-   "Naik",
-   "Volume"
-  ],
-  "DEFI": [
-   "Naik",
-   "Volume"
-  ],
-  "DEWA": [
-   "Naik",
-   "Volume"
-  ],
-  "DKHH": [
-   "Naik",
-   "Volume"
-  ],
   "DMAS": [
-   "Naik",
-   "Volume"
-  ],
-  "DOOH": [
-   "Naik",
-   "Volume"
-  ],
-  "ELSA": [
-   "Naik",
-   "Volume"
-  ],
-  "ERAA": [
-   "Naik",
-   "Volume"
-  ],
-  "ERAL": [
-   "Naik",
-   "Volume"
-  ],
-  "ESSA": [
-   "Naik",
-   "Volume"
-  ],
-  "EXCL": [
-   "Naik",
-   "Volume"
-  ],
-  "FORE": [
-   "Naik",
-   "Volume"
-  ],
-  "GEMS": [
-   "Naik",
-   "Volume"
-  ],
-  "GJTL": [
-   "Naik",
-   "Volume"
-  ],
-  "GRPH": [
-   "Naik",
-   "Volume"
-  ],
-  "HRTA": [
-   "Naik",
-   "Volume"
-  ],
-  "HRUM": [
-   "Naik",
-   "Volume"
-  ],
-  "IATA": [
-   "Naik",
-   "Volume"
-  ],
-  "INDY": [
-   "Naik",
-   "Volume"
-  ],
-  "INET": [
-   "Naik",
-   "Volume"
-  ],
-  "INKP": [
-   "Naik",
-   "Volume"
-  ],
-  "INTP": [
    "Breakout",
-   "Naik"
-  ],
-  "JELI": [
-   "Naik",
-   "Volume"
-  ],
-  "JSMR": [
-   "Naik",
-   "Volume"
-  ],
-  "KEEN": [
-   "Naik",
-   "SuperTrend"
-  ],
-  "KETR": [
-   "Naik",
-   "Volume"
-  ],
-  "KOTA": [
-   "Naik",
-   "Volume"
-  ],
-  "MAPA": [
-   "Naik",
-   "Volume"
-  ],
-  "MGLV": [
-   "Naik",
-   "Volume"
-  ],
-  "MIDI": [
-   "Naik",
-   "Volume"
-  ],
-  "MPMX": [
-   "Naik",
-   "Volume"
-  ],
-  "MPXL": [
-   "Breakout",
-   "Naik",
-   "Volume"
-  ],
-  "MSTI": [
-   "Naik",
-   "Volume"
-  ],
-  "NCKL": [
-   "Naik",
-   "Volume"
-  ],
-  "NRCA": [
-   "Naik",
-   "Volume"
-  ],
-  "OMED": [
-   "Naik",
-   "Volume"
-  ],
-  "PGAS": [
-   "Naik",
-   "Volume"
-  ],
-  "PGEO": [
    "Naik",
    "SuperTrend",
    "Volume"
   ],
-  "POWR": [
+  "MNCN": [
    "Naik",
    "Volume"
   ],
-  "PTBA": [
-   "Naik",
-   "Volume"
-  ],
-  "PWON": [
-   "Naik",
-   "Volume"
-  ],
-  "PYFA": [
-   "Naik",
-   "Volume"
-  ],
-  "RAJA": [
-   "Naik",
-   "Volume"
-  ],
-  "ROCK": [
-   "Naik",
-   "Volume"
-  ],
-  "SCMA": [
-   "Naik",
-   "Volume"
-  ],
-  "SMAR": [
-   "Naik",
-   "Volume"
-  ],
-  "SMSM": [
-   "Naik",
-   "SuperTrend",
-   "Volume"
-  ],
-  "SRTG": [
-   "Naik",
-   "Volume"
-  ],
-  "SSIA": [
+  "SBMA": [
    "Naik",
    "Volume"
   ],
   "STRK": [
-   "Naik",
-   "Volume"
-  ],
-  "TINS": [
-   "Naik",
-   "Volume"
-  ],
-  "TKIM": [
-   "Naik",
-   "Volume"
-  ],
-  "TLKM": [
-   "Naik",
-   "Volume"
-  ],
-  "TOBA": [
-   "Naik",
-   "Volume"
-  ],
-  "TPIA": [
-   "Naik",
-   "Volume"
+   "Breakout",
+   "Naik"
   ],
   "TRUK": [
    "Breakout",
    "Naik"
-  ],
-  "VISI": [
-   "Naik",
-   "Volume"
-  ],
-  "WIFI": [
-   "Naik",
-   "Volume"
   ]
  }
 }
