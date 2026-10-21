@@ -1,6 +1,20 @@
 {
  "date": "2026-10-21",
  "sent": {
+  "AALI": [
+   "Breakout",
+   "Naik",
+   "Volume"
+  ],
+  "AKRA": [
+   "Naik",
+   "Volume"
+  ],
+  "BAPA": [
+   "Naik",
+   "SuperTrend",
+   "Volume"
+  ],
   "BNGA": [
    "Naik",
    "SuperTrend",
@@ -10,14 +24,57 @@
    "Naik",
    "Volume"
   ],
+  "BRPT": [
+   "SuperTrend",
+   "Volume"
+  ],
+  "BUKA": [
+   "Breakout",
+   "SuperTrend"
+  ],
+  "CARE": [
+   "Naik",
+   "SuperTrend",
+   "Volume"
+  ],
+  "DKHH": [
+   "Naik",
+   "Volume"
+  ],
   "DMAS": [
    "Breakout",
    "Naik",
    "SuperTrend",
    "Volume"
   ],
+  "DOOH": [
+   "Naik",
+   "Volume"
+  ],
+  "FWCT": [
+   "Naik",
+   "Volume"
+  ],
+  "ICBP": [
+   "Naik",
+   "Volume"
+  ],
+  "JSMR": [
+   "Naik",
+   "Volume"
+  ],
+  "MIKA": [
+   "Naik",
+   "Volume"
+  ],
   "MNCN": [
    "Naik",
+   "Volume"
+  ],
+  "PRDA": [
+   "Breakout",
+   "Naik",
+   "SuperTrend",
    "Volume"
   ],
   "SBMA": [
@@ -26,11 +83,24 @@
   ],
   "STRK": [
    "Breakout",
-   "Naik"
+   "Naik",
+   "Volume"
+  ],
+  "TPIA": [
+   "Naik",
+   "Volume"
+  ],
+  "TRON": [
+   "Naik",
+   "Volume"
   ],
   "TRUK": [
    "Breakout",
    "Naik"
+  ],
+  "VKTR": [
+   "Naik",
+   "Volume"
   ]
  }
 }
