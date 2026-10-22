@@ -9,7 +9,27 @@
    "Naik",
    "Volume"
   ],
+  "ASPR": [
+   "Naik",
+   "Volume"
+  ],
+  "BBNI": [
+   "SuperTrend",
+   "Volume"
+  ],
+  "BBRI": [
+   "SuperTrend",
+   "Volume"
+  ],
   "BIPI": [
+   "Naik",
+   "Volume"
+  ],
+  "BULL": [
+   "Naik",
+   "Volume"
+  ],
+  "DFAM": [
    "Naik",
    "Volume"
   ],
@@ -22,7 +42,20 @@
    "Breakout",
    "Volume"
   ],
+  "FOLK": [
+   "Naik",
+   "Volume"
+  ],
   "ICON": [
+   "Naik",
+   "Volume"
+  ],
+  "JSMR": [
+   "Naik",
+   "SuperTrend",
+   "Volume"
+  ],
+  "MAPA": [
    "Naik",
    "Volume"
   ],
@@ -34,7 +67,36 @@
    "Naik",
    "Volume"
   ],
+  "NSSS": [
+   "Naik",
+   "Volume"
+  ],
   "OASA": [
+   "Naik",
+   "Volume"
+  ],
+  "PGAS": [
+   "SuperTrend",
+   "Volume"
+  ],
+  "PRDA": [
+   "Breakout",
+   "Volume"
+  ],
+  "PTSN": [
+   "Naik",
+   "Volume"
+  ],
+  "RLCO": [
+   "Naik",
+   "Volume"
+  ],
+  "RSCH": [
+   "Naik",
+   "SuperTrend"
+  ],
+  "SGER": [
+   "Breakout",
    "Naik",
    "Volume"
   ],
@@ -42,9 +104,17 @@
    "Naik",
    "Volume"
   ],
+  "SQMI": [
+   "Naik",
+   "Volume"
+  ],
   "TOBA": [
    "Naik",
    "SuperTrend",
+   "Volume"
+  ],
+  "WBSA": [
+   "Naik",
    "Volume"
   ]
  }
