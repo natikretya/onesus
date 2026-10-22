@@ -1,105 +1,50 @@
 {
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "sent": {
   "AALI": [
    "Breakout",
+   "Volume"
+  ],
+  "ASLI": [
    "Naik",
    "Volume"
   ],
-  "AKRA": [
+  "BIPI": [
    "Naik",
-   "Volume"
-  ],
-  "BAPA": [
-   "Naik",
-   "SuperTrend",
-   "Volume"
-  ],
-  "BNGA": [
-   "Naik",
-   "SuperTrend",
-   "Volume"
-  ],
-  "BREN": [
-   "Naik",
-   "Volume"
-  ],
-  "BRPT": [
-   "SuperTrend",
-   "Volume"
-  ],
-  "BUKA": [
-   "Breakout",
-   "SuperTrend"
-  ],
-  "CARE": [
-   "Naik",
-   "SuperTrend",
    "Volume"
   ],
   "DKHH": [
+   "Breakout",
    "Naik",
    "Volume"
   ],
   "DMAS": [
    "Breakout",
+   "Volume"
+  ],
+  "ICON": [
+   "Naik",
+   "Volume"
+  ],
+  "MBMA": [
+   "Naik",
+   "Volume"
+  ],
+  "MEDS": [
+   "Naik",
+   "Volume"
+  ],
+  "OASA": [
+   "Naik",
+   "Volume"
+  ],
+  "SMLE": [
+   "Naik",
+   "Volume"
+  ],
+  "TOBA": [
    "Naik",
    "SuperTrend",
-   "Volume"
-  ],
-  "DOOH": [
-   "Naik",
-   "Volume"
-  ],
-  "FWCT": [
-   "Naik",
-   "Volume"
-  ],
-  "ICBP": [
-   "Naik",
-   "Volume"
-  ],
-  "JSMR": [
-   "Naik",
-   "Volume"
-  ],
-  "MIKA": [
-   "Naik",
-   "Volume"
-  ],
-  "MNCN": [
-   "Naik",
-   "Volume"
-  ],
-  "PRDA": [
-   "Breakout",
-   "Naik",
-   "SuperTrend",
-   "Volume"
-  ],
-  "SBMA": [
-   "Naik",
-   "Volume"
-  ],
-  "STRK": [
-   "Breakout",
-   "Naik",
-   "Volume"
-  ],
-  "TPIA": [
-   "Naik",
-   "Volume"
-  ],
-  "TRON": [
-   "Naik",
-   "Volume"
-  ],
-  "TRUK": [
-   "Breakout",
-   "Naik"
-  ],
-  "VKTR": [
-   "Naik",
    "Volume"
   ]
  }
