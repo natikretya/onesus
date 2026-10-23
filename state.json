@@ -6,11 +6,33 @@
    "Naik",
    "Volume"
   ],
+  "AKRA": [
+   "Naik",
+   "SuperTrend",
+   "Volume"
+  ],
   "ARKO": [
    "Naik",
    "Volume"
   ],
+  "ASLI": [
+   "Naik",
+   "Volume"
+  ],
+  "BLES": [
+   "Naik",
+   "SuperTrend",
+   "Volume"
+  ],
   "BUVA": [
+   "Naik",
+   "Volume"
+  ],
+  "ENRG": [
+   "Naik",
+   "Volume"
+  ],
+  "ESIP": [
    "Naik",
    "Volume"
   ],
@@ -33,6 +55,10 @@
    "SuperTrend",
    "Volume"
   ],
+  "JSMR": [
+   "Naik",
+   "Volume"
+  ],
   "LEAD": [
    "Naik",
    "Volume"
@@ -46,11 +72,29 @@
    "SuperTrend",
    "Volume"
   ],
+  "OILS": [
+   "Naik",
+   "Volume"
+  ],
   "PTBA": [
    "Naik",
    "SuperTrend"
   ],
+  "PTSN": [
+   "Naik",
+   "SuperTrend",
+   "Volume"
+  ],
   "RAJA": [
+   "Naik",
+   "Volume"
+  ],
+  "RATU": [
+   "Naik",
+   "Volume"
+  ],
+  "SGER": [
+   "Breakout",
    "Naik",
    "Volume"
   ],
@@ -60,11 +104,28 @@
    "Volume"
   ],
   "TOBA": [
+   "Breakout",
+   "Naik",
+   "Volume"
+  ],
+  "TRIN": [
+   "Naik",
+   "Volume"
+  ],
+  "UANG": [
    "Naik",
    "Volume"
   ],
   "VKTR": [
    "Naik",
+   "Volume"
+  ],
+  "WBSA": [
+   "Naik",
+   "Volume"
+  ],
+  "WIIM": [
+   "SuperTrend",
    "Volume"
   ],
   "YELO": [
