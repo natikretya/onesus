@@ -1,119 +1,73 @@
 {
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "sent": {
   "AALI": [
    "Breakout",
-   "Volume"
-  ],
-  "ASLI": [
    "Naik",
    "Volume"
   ],
-  "ASPR": [
+  "ARKO": [
    "Naik",
    "Volume"
   ],
-  "BBNI": [
+  "BUVA": [
+   "Naik",
+   "Volume"
+  ],
+  "FAST": [
+   "Naik",
    "SuperTrend",
    "Volume"
   ],
-  "BBRI": [
-   "SuperTrend",
-   "Volume"
-  ],
-  "BIPI": [
+  "FUTR": [
    "Naik",
    "Volume"
   ],
-  "BULL": [
+  "IRSX": [
    "Naik",
    "Volume"
   ],
-  "DFAM": [
-   "Naik",
-   "Volume"
-  ],
-  "DKHH": [
+  "ISSP": [
    "Breakout",
    "Naik",
-   "Volume"
-  ],
-  "DMAS": [
-   "Breakout",
-   "Volume"
-  ],
-  "FOLK": [
-   "Naik",
-   "Volume"
-  ],
-  "ICON": [
-   "Naik",
-   "Volume"
-  ],
-  "JSMR": [
-   "Naik",
    "SuperTrend",
    "Volume"
   ],
-  "MAPA": [
+  "LEAD": [
    "Naik",
    "Volume"
   ],
-  "MBMA": [
-   "Naik",
-   "Volume"
-  ],
-  "MEDS": [
-   "Naik",
-   "Volume"
-  ],
-  "NSSS": [
+  "MINA": [
    "Naik",
    "Volume"
   ],
   "OASA": [
    "Naik",
-   "Volume"
-  ],
-  "PGAS": [
    "SuperTrend",
    "Volume"
   ],
-  "PRDA": [
-   "Breakout",
-   "Volume"
-  ],
-  "PTSN": [
-   "Naik",
-   "Volume"
-  ],
-  "RLCO": [
-   "Naik",
-   "Volume"
-  ],
-  "RSCH": [
+  "PTBA": [
    "Naik",
    "SuperTrend"
   ],
-  "SGER": [
+  "RAJA": [
+   "Naik",
+   "Volume"
+  ],
+  "STRK": [
    "Breakout",
-   "Naik",
-   "Volume"
-  ],
-  "SMLE": [
-   "Naik",
-   "Volume"
-  ],
-  "SQMI": [
    "Naik",
    "Volume"
   ],
   "TOBA": [
    "Naik",
-   "SuperTrend",
    "Volume"
   ],
-  "WBSA": [
+  "VKTR": [
+   "Naik",
+   "Volume"
+  ],
+  "YELO": [
    "Naik",
    "Volume"
   ]
