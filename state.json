@@ -1,135 +1,55 @@
 {
- "date": "2026-10-23",
+ "date": "2026-10-26",
  "sent": {
-  "AALI": [
-   "Breakout",
-   "Naik",
-   "Volume"
-  ],
-  "AKRA": [
-   "Naik",
-   "SuperTrend",
-   "Volume"
-  ],
-  "ARKO": [
-   "Naik",
-   "Volume"
-  ],
-  "ASLI": [
+  "BIPP": [
    "Naik",
    "Volume"
   ],
   "BLES": [
-   "Naik",
-   "SuperTrend",
-   "Volume"
-  ],
-  "BUVA": [
-   "Naik",
-   "Volume"
-  ],
-  "ENRG": [
-   "Naik",
-   "Volume"
-  ],
-  "ESIP": [
-   "Naik",
+   "Breakout",
    "Volume"
   ],
   "FAST": [
    "Naik",
-   "SuperTrend",
    "Volume"
   ],
-  "FUTR": [
-   "Naik",
-   "Volume"
-  ],
-  "IRSX": [
-   "Naik",
-   "Volume"
-  ],
-  "ISSP": [
+  "IDEA": [
    "Breakout",
-   "Naik",
-   "SuperTrend",
-   "Volume"
+   "Naik"
   ],
-  "JSMR": [
-   "Naik",
-   "Volume"
-  ],
-  "LEAD": [
-   "Naik",
-   "Volume"
-  ],
-  "MINA": [
-   "Naik",
-   "Volume"
-  ],
-  "OASA": [
-   "Naik",
-   "SuperTrend",
-   "Volume"
-  ],
-  "OILS": [
-   "Naik",
-   "Volume"
-  ],
-  "PTBA": [
+  "MBSS": [
    "Naik",
    "SuperTrend"
   ],
-  "PTSN": [
+  "MGNA": [
+   "Naik",
+   "Volume"
+  ],
+  "PACK": [
+   "Naik",
+   "Volume"
+  ],
+  "PSKT": [
+   "Naik",
+   "Volume"
+  ],
+  "PTSP": [
+   "Breakout",
+   "Volume"
+  ],
+  "SEMA": [
    "Naik",
    "SuperTrend",
    "Volume"
   ],
-  "RAJA": [
+  "TMPO": [
    "Naik",
-   "Volume"
-  ],
-  "RATU": [
-   "Naik",
-   "Volume"
-  ],
-  "SGER": [
-   "Breakout",
-   "Naik",
-   "Volume"
-  ],
-  "STRK": [
-   "Breakout",
-   "Naik",
-   "Volume"
-  ],
-  "TOBA": [
-   "Breakout",
-   "Naik",
-   "Volume"
-  ],
-  "TRIN": [
-   "Naik",
-   "Volume"
-  ],
-  "UANG": [
-   "Naik",
-   "Volume"
-  ],
-  "VKTR": [
-   "Naik",
-   "Volume"
-  ],
-  "WBSA": [
-   "Naik",
-   "Volume"
-  ],
-  "WIIM": [
    "SuperTrend",
    "Volume"
   ],
-  "YELO": [
+  "TPIA": [
    "Naik",
+   "SuperTrend",
    "Volume"
   ]
  }
