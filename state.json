@@ -7,6 +7,16 @@
   ],
   "BLES": [
    "Breakout",
+   "Naik",
+   "Volume"
+  ],
+  "DKHH": [
+   "Breakout",
+   "Naik"
+  ],
+  "ENAK": [
+   "Naik",
+   "SuperTrend",
    "Volume"
   ],
   "FAST": [
@@ -19,9 +29,14 @@
   ],
   "MBSS": [
    "Naik",
-   "SuperTrend"
+   "SuperTrend",
+   "Volume"
   ],
   "MGNA": [
+   "Naik",
+   "Volume"
+  ],
+  "MMIX": [
    "Naik",
    "Volume"
   ],
@@ -37,9 +52,21 @@
    "Breakout",
    "Volume"
   ],
+  "SBMA": [
+   "Naik",
+   "Volume"
+  ],
   "SEMA": [
    "Naik",
    "SuperTrend",
+   "Volume"
+  ],
+  "SMGR": [
+   "Naik",
+   "Volume"
+  ],
+  "SSMS": [
+   "Naik",
    "Volume"
   ],
   "TMPO": [
