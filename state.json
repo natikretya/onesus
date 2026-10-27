@@ -1,6 +1,14 @@
 {
  "date": "2026-10-27",
  "sent": {
+  "ARII": [
+   "Naik",
+   "Volume"
+  ],
+  "ELSA": [
+   "Naik",
+   "Volume"
+  ],
   "ERAL": [
    "Naik",
    "SuperTrend",
@@ -12,14 +20,23 @@
   ],
   "HMSP": [
    "Breakout",
-   "SuperTrend"
+   "Naik",
+   "SuperTrend",
+   "Volume"
+  ],
+  "INTP": [
+   "Breakout",
+   "Naik",
+   "Volume"
   ],
   "ISSP": [
    "Breakout",
+   "Naik",
    "Volume"
   ],
   "JSMR": [
    "Breakout",
+   "Naik",
    "Volume"
   ],
   "MMIX": [
@@ -30,6 +47,19 @@
   "PTSP": [
    "Naik",
    "Volume"
+  ],
+  "TMPO": [
+   "Breakout",
+   "Naik",
+   "Volume"
+  ],
+  "UNIQ": [
+   "Naik",
+   "Volume"
+  ],
+  "UNTR": [
+   "Naik",
+   "SuperTrend"
   ]
  }
 }
