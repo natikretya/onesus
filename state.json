@@ -1,65 +1,18 @@
 {
- "date": "2026-10-27",
+ "date": "2026-10-28",
  "sent": {
-  "ARII": [
+  "MPXL": [
    "Naik",
-   "Volume"
-  ],
-  "ELSA": [
-   "Naik",
-   "Volume"
-  ],
-  "ERAL": [
-   "Naik",
-   "SuperTrend",
-   "Volume"
-  ],
-  "GGRM": [
-   "Naik",
-   "SuperTrend"
-  ],
-  "HMSP": [
-   "Breakout",
-   "Naik",
-   "SuperTrend",
-   "Volume"
-  ],
-  "INTP": [
-   "Breakout",
-   "Naik",
-   "Volume"
-  ],
-  "ISSP": [
-   "Breakout",
-   "Naik",
-   "Volume"
-  ],
-  "JSMR": [
-   "Breakout",
-   "Naik",
-   "Volume"
-  ],
-  "MMIX": [
-   "Naik",
-   "SuperTrend",
    "Volume"
   ],
   "PTSP": [
    "Naik",
    "Volume"
   ],
-  "TMPO": [
-   "Breakout",
-   "Naik",
-   "Volume"
-  ],
   "UNIQ": [
    "Naik",
+   "SuperTrend",
    "Volume"
-  ],
-  "UNTR": [
-   "Naik",
-   "SuperTrend"
   ]
  }
 }
