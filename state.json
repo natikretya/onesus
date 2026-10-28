@@ -1,11 +1,51 @@
 {
  "date": "2026-10-28",
  "sent": {
+  "ASII": [
+   "Breakout",
+   "Naik"
+  ],
+  "BBCA": [
+   "Naik",
+   "Volume"
+  ],
+  "BIPP": [
+   "Naik",
+   "Volume"
+  ],
+  "DRMA": [
+   "SuperTrend",
+   "Volume"
+  ],
+  "HEAL": [
+   "Naik",
+   "Volume"
+  ],
+  "JSMR": [
+   "Breakout",
+   "Volume"
+  ],
   "MPXL": [
    "Naik",
    "Volume"
   ],
+  "NATO": [
+   "Naik",
+   "Volume"
+  ],
+  "NISP": [
+   "SuperTrend",
+   "Volume"
+  ],
   "PTSP": [
+   "Naik",
+   "Volume"
+  ],
+  "RLCO": [
+   "Naik",
+   "Volume"
+  ],
+  "SEMA": [
    "Naik",
    "Volume"
   ],
