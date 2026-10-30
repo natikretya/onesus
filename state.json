@@ -17,6 +17,11 @@
    "Naik",
    "Volume"
   ],
+  "DSNG": [
+   "Naik",
+   "SuperTrend",
+   "Volume"
+  ],
   "ENAK": [
    "Naik",
    "Volume"
@@ -24,6 +29,14 @@
   "FIRE": [
    "Naik",
    "SuperTrend",
+   "Volume"
+  ],
+  "NASI": [
+   "Naik",
+   "Volume"
+  ],
+  "PEGE": [
+   "Naik",
    "Volume"
   ],
   "PGAS": [
