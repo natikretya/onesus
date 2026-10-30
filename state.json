@@ -1,11 +1,36 @@
 {
- "date": "2026-10-29",
+ "date": "2026-10-30",
  "sent": {
+  "ABMM": [
+   "Naik",
+   "Volume"
+  ],
   "ALKA": [
    "Naik",
    "Volume"
   ],
+  "BOGA": [
+   "Breakout",
+   "Naik"
+  ],
+  "DKFT": [
+   "Naik",
+   "Volume"
+  ],
   "ENAK": [
+   "Naik",
+   "Volume"
+  ],
+  "FIRE": [
+   "Naik",
+   "SuperTrend",
+   "Volume"
+  ],
+  "PGAS": [
+   "Naik",
+   "Volume"
+  ],
+  "POWR": [
    "Naik",
    "Volume"
   ]
