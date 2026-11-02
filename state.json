@@ -1,49 +1,41 @@
 {
- "date": "2026-10-30",
+ "date": "2026-11-02",
  "sent": {
-  "ABMM": [
+  "ADMR": [
+   "Naik",
+   "SuperTrend",
+   "Volume"
+  ],
+  "APEX": [
    "Naik",
    "Volume"
   ],
-  "ALKA": [
+  "GTSI": [
    "Naik",
    "Volume"
   ],
-  "BOGA": [
+  "INET": [
+   "Naik",
+   "Volume"
+  ],
+  "ISAT": [
+   "Naik",
+   "Volume"
+  ],
+  "MPMX": [
    "Breakout",
-   "Naik"
-  ],
-  "DKFT": [
-   "Naik",
-   "Volume"
-  ],
-  "DSNG": [
-   "Naik",
    "SuperTrend",
    "Volume"
   ],
-  "ENAK": [
+  "PTRO": [
    "Naik",
    "Volume"
   ],
-  "FIRE": [
-   "Naik",
-   "SuperTrend",
-   "Volume"
-  ],
-  "NASI": [
+  "RMKE": [
    "Naik",
    "Volume"
   ],
-  "PEGE": [
-   "Naik",
-   "Volume"
-  ],
-  "PGAS": [
-   "Naik",
-   "Volume"
-  ],
-  "POWR": [
+  "SIMP": [
    "Naik",
    "Volume"
   ]
