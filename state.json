@@ -1,41 +1,11 @@
 {
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "sent": {
-  "ADMR": [
-   "Naik",
-   "SuperTrend",
-   "Volume"
-  ],
-  "APEX": [
+  "FUJI": [
    "Naik",
    "Volume"
   ],
-  "GTSI": [
-   "Naik",
-   "Volume"
-  ],
-  "INET": [
-   "Naik",
-   "Volume"
-  ],
-  "ISAT": [
-   "Naik",
-   "Volume"
-  ],
-  "MPMX": [
-   "Breakout",
-   "SuperTrend",
-   "Volume"
-  ],
-  "PTRO": [
-   "Naik",
-   "Volume"
-  ],
-  "RMKE": [
-   "Naik",
-   "Volume"
-  ],
-  "SIMP": [
+  "TMPO": [
    "Naik",
    "Volume"
   ]
