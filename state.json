@@ -1,60 +1,19 @@
 {
- "date": "2026-11-05",
+ "date": "2026-11-06",
  "sent": {
   "AIMS": [
-   "Naik",
-   "SuperTrend",
-   "Volume"
-  ],
-  "ALKA": [
-   "Naik",
-   "Volume"
-  ],
-  "ARCI": [
-   "Naik",
-   "Volume"
-  ],
-  "BAIK": [
-   "Naik",
-   "Volume"
-  ],
-  "ESTI": [
-   "Naik",
-   "Volume"
-  ],
-  "FIRE": [
-   "Naik",
-   "Volume"
-  ],
-  "FUJI": [
-   "Naik",
-   "Volume"
-  ],
-  "HBAT": [
-   "Naik",
-   "Volume"
-  ],
-  "JATI": [
-   "Naik",
-   "Volume"
-  ],
-  "MDKA": [
-   "Naik",
-   "Volume"
-  ],
-  "MPMX": [
    "Breakout",
-   "Volume"
+   "Naik"
   ],
-  "SMAR": [
+  "ENAK": [
    "Naik",
    "Volume"
   ],
-  "UANG": [
+  "KOCI": [
    "Naik",
    "Volume"
   ],
-  "UVCR": [
+  "PYFA": [
    "Naik",
    "Volume"
   ]
