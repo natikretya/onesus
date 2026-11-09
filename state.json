@@ -1,19 +1,51 @@
 {
- "date": "2026-11-06",
+ "date": "2026-11-09",
  "sent": {
-  "AIMS": [
-   "Breakout",
-   "Naik"
+  "AKPI": [
+   "Naik",
+   "Volume"
+  ],
+  "BAJA": [
+   "Naik",
+   "Volume"
+  ],
+  "DOOH": [
+   "Naik",
+   "Volume"
   ],
   "ENAK": [
    "Naik",
    "Volume"
   ],
-  "KOCI": [
+  "FORU": [
    "Naik",
    "Volume"
   ],
-  "PYFA": [
+  "INET": [
+   "Naik",
+   "Volume"
+  ],
+  "KBLV": [
+   "Naik",
+   "Volume"
+  ],
+  "NASI": [
+   "Naik",
+   "Volume"
+  ],
+  "NICL": [
+   "Naik",
+   "Volume"
+  ],
+  "OILS": [
+   "Naik",
+   "Volume"
+  ],
+  "PADA": [
+   "Naik",
+   "Volume"
+  ],
+  "TGUK": [
    "Naik",
    "Volume"
   ]
