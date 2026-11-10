@@ -1,51 +1,56 @@
 {
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "sent": {
-  "AKPI": [
+  "BELL": [
    "Naik",
    "Volume"
   ],
-  "BAJA": [
+  "BUVA": [
    "Naik",
    "Volume"
   ],
-  "DOOH": [
+  "INCO": [
    "Naik",
-   "Volume"
-  ],
-  "ENAK": [
-   "Naik",
-   "Volume"
-  ],
-  "FORU": [
-   "Naik",
-   "Volume"
-  ],
-  "INET": [
-   "Naik",
-   "Volume"
+   "SuperTrend"
   ],
   "KBLV": [
    "Naik",
    "Volume"
   ],
-  "NASI": [
+  "MINA": [
    "Naik",
    "Volume"
   ],
-  "NICL": [
+  "PSKT": [
+   "Naik",
+   "SuperTrend"
+  ],
+  "PTRO": [
    "Naik",
    "Volume"
   ],
-  "OILS": [
+  "PTSP": [
    "Naik",
    "Volume"
   ],
-  "PADA": [
+  "RAJA": [
    "Naik",
    "Volume"
   ],
-  "TGUK": [
+  "RATU": [
+   "Naik",
+   "Volume"
+  ],
+  "SOLA": [
+   "Naik",
+   "Volume"
+  ],
+  "TRIN": [
+   "Naik",
+   "Volume"
+  ],
+  "UNIQ": [
+   "Breakout",
    "Naik",
    "Volume"
   ]
