@@ -1,56 +1,20 @@
 {
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "sent": {
-  "BELL": [
+  "BULL": [
    "Naik",
    "Volume"
   ],
-  "BUVA": [
-   "Naik",
-   "Volume"
-  ],
-  "INCO": [
-   "Naik",
-   "SuperTrend"
-  ],
-  "KBLV": [
-   "Naik",
-   "Volume"
-  ],
-  "MINA": [
-   "Naik",
-   "Volume"
-  ],
-  "PSKT": [
-   "Naik",
-   "SuperTrend"
-  ],
-  "PTRO": [
-   "Naik",
-   "Volume"
-  ],
-  "PTSP": [
+  "KJEN": [
    "Naik",
    "Volume"
   ],
   "RAJA": [
    "Naik",
+   "SuperTrend",
    "Volume"
   ],
   "RATU": [
-   "Naik",
-   "Volume"
-  ],
-  "SOLA": [
-   "Naik",
-   "Volume"
-  ],
-  "TRIN": [
-   "Naik",
-   "Volume"
-  ],
-  "UNIQ": [
-   "Breakout",
    "Naik",
    "Volume"
   ]
