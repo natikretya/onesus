@@ -1,20 +1,72 @@
 {
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "sent": {
-  "BULL": [
+  "AIMS": [
    "Naik",
    "Volume"
   ],
-  "KJEN": [
+  "ARTO": [
    "Naik",
    "Volume"
   ],
-  "RAJA": [
+  "BIPI": [
    "Naik",
-   "SuperTrend",
+   "Volume"
+  ],
+  "BUVA": [
+   "Naik",
+   "Volume"
+  ],
+  "HBAT": [
+   "Naik",
+   "SuperTrend"
+  ],
+  "HOPE": [
+   "Naik",
+   "Volume"
+  ],
+  "IRSX": [
+   "Naik",
+   "Volume"
+  ],
+  "KEEN": [
+   "Breakout",
+   "Naik",
+   "Volume"
+  ],
+  "KOTA": [
+   "Naik",
+   "Volume"
+  ],
+  "MDIA": [
+   "Naik",
+   "Volume"
+  ],
+  "MINA": [
+   "Naik",
+   "Volume"
+  ],
+  "PSKT": [
+   "Naik",
    "Volume"
   ],
   "RATU": [
+   "Naik",
+   "Volume"
+  ],
+  "RMKE": [
+   "Breakout",
+   "Naik"
+  ],
+  "SMAR": [
+   "Naik",
+   "Volume"
+  ],
+  "TRON": [
+   "Naik",
+   "Volume"
+  ],
+  "VKTR": [
    "Naik",
    "Volume"
   ]
