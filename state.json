@@ -1,72 +1,111 @@
 {
- "date": "2026-11-12",
+ "date": "2026-11-13",
  "sent": {
-  "AIMS": [
-   "Naik",
-   "Volume"
-  ],
-  "ARTO": [
-   "Naik",
-   "Volume"
-  ],
-  "BIPI": [
-   "Naik",
-   "Volume"
-  ],
-  "BUVA": [
-   "Naik",
-   "Volume"
-  ],
-  "HBAT": [
-   "Naik",
+  "BBTN": [
+   "Breakout",
    "SuperTrend"
+  ],
+  "BRMS": [
+   "Naik",
+   "Volume"
+  ],
+  "BRPT": [
+   "Naik",
+   "Volume"
+  ],
+  "BWPT": [
+   "Naik",
+   "Volume"
+  ],
+  "COIN": [
+   "Naik",
+   "SuperTrend",
+   "Volume"
+  ],
+  "DKFT": [
+   "Breakout",
+   "Naik",
+   "Volume"
+  ],
+  "ESIP": [
+   "Naik",
+   "SuperTrend",
+   "Volume"
+  ],
+  "ESSA": [
+   "Naik",
+   "Volume"
+  ],
+  "FOLK": [
+   "Naik",
+   "Volume"
+  ],
+  "FUTR": [
+   "Naik",
+   "Volume"
   ],
   "HOPE": [
    "Naik",
    "Volume"
   ],
-  "IRSX": [
-   "Naik",
-   "Volume"
-  ],
-  "KEEN": [
+  "INDF": [
    "Breakout",
+   "SuperTrend"
+  ],
+  "KOKA": [
    "Naik",
    "Volume"
   ],
-  "KOTA": [
+  "MEJA": [
    "Naik",
    "Volume"
   ],
-  "MDIA": [
+  "MPIX": [
    "Naik",
    "Volume"
   ],
-  "MINA": [
+  "MTEL": [
    "Naik",
    "Volume"
   ],
-  "PSKT": [
-   "Naik",
-   "Volume"
-  ],
-  "RATU": [
-   "Naik",
-   "Volume"
-  ],
-  "RMKE": [
+  "NSSS": [
    "Breakout",
    "Naik"
   ],
-  "SMAR": [
+  "PIPA": [
+   "Naik",
+   "Volume"
+  ],
+  "SIMP": [
+   "Breakout",
+   "SuperTrend"
+  ],
+  "SINI": [
+   "Naik",
+   "SuperTrend"
+  ],
+  "SMGR": [
+   "Breakout",
+   "SuperTrend"
+  ],
+  "TRIN": [
    "Naik",
    "Volume"
   ],
   "TRON": [
-   "Naik",
+   "SuperTrend",
    "Volume"
   ],
+  "UANG": [
+   "Naik",
+   "SuperTrend"
+  ],
   "VKTR": [
+   "Naik",
+   "SuperTrend",
+   "Volume"
+  ],
+  "WIFI": [
    "Naik",
    "Volume"
   ]
