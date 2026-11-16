@@ -1,111 +1,72 @@
 {
- "date": "2026-11-13",
+ "date": "2026-11-16",
  "sent": {
-  "BBTN": [
-   "Breakout",
+  "CBRE": [
+   "Naik",
    "SuperTrend"
-  ],
-  "BRMS": [
-   "Naik",
-   "Volume"
-  ],
-  "BRPT": [
-   "Naik",
-   "Volume"
-  ],
-  "BWPT": [
-   "Naik",
-   "Volume"
   ],
   "COIN": [
    "Naik",
-   "SuperTrend",
    "Volume"
   ],
-  "DKFT": [
-   "Breakout",
-   "Naik",
-   "Volume"
-  ],
-  "ESIP": [
-   "Naik",
-   "SuperTrend",
-   "Volume"
-  ],
-  "ESSA": [
+  "FAST": [
    "Naik",
    "Volume"
   ],
   "FOLK": [
-   "Naik",
-   "Volume"
-  ],
-  "FUTR": [
-   "Naik",
-   "Volume"
-  ],
-  "HOPE": [
-   "Naik",
-   "Volume"
-  ],
-  "INDF": [
    "Breakout",
-   "SuperTrend"
+   "Naik",
+   "SuperTrend",
+   "Volume"
   ],
-  "KOKA": [
+  "ICON": [
    "Naik",
    "Volume"
   ],
-  "MEJA": [
+  "KDTN": [
    "Naik",
    "Volume"
   ],
-  "MPIX": [
+  "KJEN": [
    "Naik",
    "Volume"
   ],
-  "MTEL": [
+  "KOTA": [
    "Naik",
    "Volume"
   ],
-  "NSSS": [
-   "Breakout",
-   "Naik"
-  ],
-  "PIPA": [
+  "MDIA": [
    "Naik",
    "Volume"
   ],
-  "SIMP": [
-   "Breakout",
-   "SuperTrend"
-  ],
-  "SINI": [
+  "MGNA": [
    "Naik",
-   "SuperTrend"
+   "Volume"
   ],
-  "SMGR": [
-   "Breakout",
-   "SuperTrend"
+  "MSIN": [
+   "Naik",
+   "Volume"
+  ],
+  "PCAR": [
+   "Naik",
+   "Volume"
+  ],
+  "SEMA": [
+   "Naik",
+   "Volume"
   ],
   "TRIN": [
    "Naik",
-   "Volume"
-  ],
-  "TRON": [
    "SuperTrend",
    "Volume"
   ],
-  "UANG": [
-   "Naik",
-   "SuperTrend"
-  ],
-  "VKTR": [
+  "WBSA": [
    "Naik",
    "SuperTrend",
    "Volume"
   ],
-  "WIFI": [
+  "WMUU": [
+   "Breakout",
    "Naik",
    "Volume"
   ]
