@@ -1,72 +1,82 @@
 {
- "date": "2026-11-16",
+ "date": "2026-11-17",
  "sent": {
-  "CBRE": [
-   "Naik",
+  "ABMM": [
+   "Breakout",
    "SuperTrend"
   ],
-  "COIN": [
+  "BBYB": [
+   "Breakout",
    "Naik",
    "Volume"
   ],
-  "FAST": [
+  "BRIS": [
+   "Breakout",
+   "Naik",
+   "SuperTrend"
+  ],
+  "DEFI": [
+   "Naik",
+   "Volume"
+  ],
+  "DPUM": [
    "Naik",
    "Volume"
   ],
   "FOLK": [
    "Breakout",
    "Naik",
+   "Volume"
+  ],
+  "IDEA": [
+   "Breakout",
+   "Naik"
+  ],
+  "KOCI": [
+   "Naik",
    "SuperTrend",
    "Volume"
   ],
-  "ICON": [
-   "Naik",
-   "Volume"
-  ],
-  "KDTN": [
-   "Naik",
-   "Volume"
-  ],
-  "KJEN": [
-   "Naik",
-   "Volume"
-  ],
-  "KOTA": [
-   "Naik",
-   "Volume"
-  ],
-  "MDIA": [
-   "Naik",
+  "LPPF": [
+   "Breakout",
    "Volume"
   ],
   "MGNA": [
+   "Breakout",
+   "Naik",
+   "SuperTrend",
+   "Volume"
+  ],
+  "MORA": [
    "Naik",
    "Volume"
   ],
-  "MSIN": [
+  "MPXL": [
    "Naik",
    "Volume"
   ],
-  "PCAR": [
+  "NSSS": [
+   "Breakout",
+   "Naik"
+  ],
+  "PNBN": [
+   "Breakout",
    "Naik",
+   "SuperTrend",
    "Volume"
   ],
-  "SEMA": [
+  "PNLF": [
+   "Breakout",
    "Naik",
+   "SuperTrend",
    "Volume"
   ],
   "TRIN": [
-   "Naik",
-   "SuperTrend",
-   "Volume"
-  ],
-  "WBSA": [
-   "Naik",
-   "SuperTrend",
-   "Volume"
-  ],
-  "WMUU": [
    "Breakout",
+   "Naik",
+   "Volume"
+  ],
+  "UNIQ": [
    "Naik",
    "Volume"
   ]
