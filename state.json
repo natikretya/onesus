@@ -1,30 +1,28 @@
 {
- "date": "2026-11-17",
+ "date": "2026-11-18",
  "sent": {
-  "ABMM": [
+  "ALKA": [
+   "Naik",
+   "Volume"
+  ],
+  "ASGR": [
    "Breakout",
-   "SuperTrend"
+   "Volume"
   ],
   "BBYB": [
+   "SuperTrend",
+   "Volume"
+  ],
+  "DGWG": [
    "Breakout",
    "Naik",
    "Volume"
   ],
-  "BRIS": [
-   "Breakout",
-   "Naik",
-   "SuperTrend"
-  ],
-  "DEFI": [
+  "EXCL": [
    "Naik",
    "Volume"
   ],
-  "DPUM": [
-   "Naik",
-   "Volume"
-  ],
-  "FOLK": [
-   "Breakout",
+  "HOPE": [
    "Naik",
    "Volume"
   ],
@@ -32,51 +30,35 @@
    "Breakout",
    "Naik"
   ],
-  "KOCI": [
-   "Naik",
-   "SuperTrend",
-   "Volume"
-  ],
-  "LPPF": [
+  "MAPA": [
    "Breakout",
    "Volume"
   ],
   "MGNA": [
    "Breakout",
    "Naik",
-   "SuperTrend",
    "Volume"
   ],
-  "MORA": [
+  "MSJA": [
    "Naik",
    "Volume"
   ],
-  "MPXL": [
-   "Naik",
-   "Volume"
-  ],
-  "NSSS": [
-   "Breakout",
-   "Naik"
-  ],
-  "PNBN": [
-   "Breakout",
+  "NAYZ": [
    "Naik",
    "SuperTrend",
    "Volume"
   ],
-  "PNLF": [
-   "Breakout",
+  "PPRI": [
+   "Naik",
+   "Volume"
+  ],
+  "SOLA": [
    "Naik",
    "SuperTrend",
    "Volume"
   ],
-  "TRIN": [
+  "TRON": [
    "Breakout",
-   "Naik",
-   "Volume"
-  ],
-  "UNIQ": [
    "Naik",
    "Volume"
   ]
