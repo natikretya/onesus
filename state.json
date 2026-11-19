@@ -1,28 +1,15 @@
 {
- "date": "2026-11-18",
+ "date": "2026-11-19",
  "sent": {
-  "ALKA": [
+  "BELL": [
    "Naik",
    "Volume"
   ],
-  "ASGR": [
-   "Breakout",
-   "Volume"
-  ],
-  "BBYB": [
-   "SuperTrend",
-   "Volume"
-  ],
-  "DGWG": [
-   "Breakout",
+  "ESIP": [
    "Naik",
    "Volume"
   ],
-  "EXCL": [
-   "Naik",
-   "Volume"
-  ],
-  "HOPE": [
+  "HRME": [
    "Naik",
    "Volume"
   ],
@@ -30,35 +17,11 @@
    "Breakout",
    "Naik"
   ],
-  "MAPA": [
-   "Breakout",
-   "Volume"
-  ],
-  "MGNA": [
-   "Breakout",
+  "PTSP": [
    "Naik",
    "Volume"
   ],
-  "MSJA": [
-   "Naik",
-   "Volume"
-  ],
-  "NAYZ": [
-   "Naik",
-   "SuperTrend",
-   "Volume"
-  ],
-  "PPRI": [
-   "Naik",
-   "Volume"
-  ],
-  "SOLA": [
-   "Naik",
-   "SuperTrend",
-   "Volume"
-  ],
-  "TRON": [
-   "Breakout",
+  "WBSA": [
    "Naik",
    "Volume"
   ]
