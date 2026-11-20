@@ -1,27 +1,54 @@
 {
- "date": "2026-11-19",
+ "date": "2026-11-20",
  "sent": {
-  "BELL": [
+  "ARII": [
    "Naik",
    "Volume"
   ],
-  "ESIP": [
+  "BREN": [
    "Naik",
    "Volume"
   ],
-  "HRME": [
+  "FUJI": [
+   "SuperTrend",
+   "Volume"
+  ],
+  "ICON": [
    "Naik",
    "Volume"
   ],
   "IDEA": [
    "Breakout",
-   "Naik"
-  ],
-  "PTSP": [
    "Naik",
    "Volume"
   ],
-  "WBSA": [
+  "INOV": [
+   "Naik",
+   "Volume"
+  ],
+  "MBMA": [
+   "Naik",
+   "Volume"
+  ],
+  "MYOR": [
+   "Naik",
+   "Volume"
+  ],
+  "NAYZ": [
+   "Breakout",
+   "Naik",
+   "Volume"
+  ],
+  "NCKL": [
+   "Naik",
+   "Volume"
+  ],
+  "TGUK": [
+   "Naik",
+   "SuperTrend",
+   "Volume"
+  ],
+  "YELO": [
    "Naik",
    "Volume"
   ]
