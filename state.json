@@ -1,7 +1,8 @@
 {
- "date": "2026-11-20",
+ "date": "2026-11-23",
  "sent": {
-  "ARII": [
+  "ASPR": [
+   "Breakout",
    "Naik",
    "Volume"
   ],
@@ -9,46 +10,59 @@
    "Naik",
    "Volume"
   ],
-  "FUJI": [
-   "SuperTrend",
-   "Volume"
-  ],
-  "ICON": [
+  "BRMS": [
    "Naik",
    "Volume"
   ],
-  "IDEA": [
-   "Breakout",
+  "BRPT": [
    "Naik",
    "Volume"
   ],
-  "INOV": [
+  "CDIA": [
    "Naik",
    "Volume"
   ],
-  "MBMA": [
+  "CUAN": [
    "Naik",
    "Volume"
   ],
-  "MYOR": [
+  "ESTI": [
+   "Naik",
+   "Volume"
+  ],
+  "FOLK": [
+   "Naik",
+   "Volume"
+  ],
+  "HRME": [
+   "Naik",
+   "Volume"
+  ],
+  "KDTN": [
+   "Naik",
+   "Volume"
+  ],
+  "KOCI": [
    "Naik",
    "Volume"
   ],
   "NAYZ": [
    "Breakout",
+   "Naik"
+  ],
+  "NZIA": [
    "Naik",
    "Volume"
   ],
-  "NCKL": [
+  "PTRO": [
    "Naik",
    "Volume"
   ],
-  "TGUK": [
+  "TRIN": [
    "Naik",
-   "SuperTrend",
    "Volume"
   ],
-  "YELO": [
+  "WIFI": [
    "Naik",
    "Volume"
   ]
