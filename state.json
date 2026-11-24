@@ -1,68 +1,73 @@
 {
- "date": "2026-11-23",
+ "date": "2026-11-24",
  "sent": {
-  "ASPR": [
+  "AKKU": [
+   "Naik",
+   "Volume"
+  ],
+  "ASLI": [
+   "Naik",
+   "Volume"
+  ],
+  "BBHI": [
+   "Naik",
+   "Volume"
+  ],
+  "BMTR": [
+   "Naik",
+   "SuperTrend"
+  ],
+  "BYAN": [
+   "Naik",
+   "SuperTrend",
+   "Volume"
+  ],
+  "IDEA": [
    "Breakout",
+   "Naik"
+  ],
+  "ISAT": [
    "Naik",
    "Volume"
   ],
-  "BREN": [
-   "Naik",
-   "Volume"
-  ],
-  "BRMS": [
-   "Naik",
-   "Volume"
-  ],
-  "BRPT": [
-   "Naik",
-   "Volume"
-  ],
-  "CDIA": [
-   "Naik",
-   "Volume"
-  ],
-  "CUAN": [
-   "Naik",
-   "Volume"
-  ],
-  "ESTI": [
-   "Naik",
-   "Volume"
-  ],
-  "FOLK": [
-   "Naik",
-   "Volume"
-  ],
-  "HRME": [
-   "Naik",
-   "Volume"
-  ],
-  "KDTN": [
-   "Naik",
-   "Volume"
-  ],
-  "KOCI": [
+  "MPXL": [
+   "Breakout",
    "Naik",
    "Volume"
   ],
   "NAYZ": [
    "Breakout",
-   "Naik"
+   "Volume"
   ],
   "NZIA": [
    "Naik",
    "Volume"
   ],
-  "PTRO": [
+  "PWON": [
+   "Breakout",
+   "Volume"
+  ],
+  "SMRA": [
+   "Breakout",
+   "Volume"
+  ],
+  "SOLA": [
    "Naik",
    "Volume"
   ],
-  "TRIN": [
+  "TEBE": [
    "Naik",
    "Volume"
   ],
-  "WIFI": [
+  "TRON": [
+   "Naik",
+   "Volume"
+  ],
+  "UNIQ": [
+   "Naik",
+   "Volume"
+  ],
+  "WMUU": [
    "Naik",
    "Volume"
   ]
