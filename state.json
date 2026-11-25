@@ -1,74 +1,36 @@
 {
- "date": "2026-11-24",
+ "date": "2026-11-25",
  "sent": {
-  "AKKU": [
+  "ARII": [
    "Naik",
    "Volume"
   ],
-  "ASLI": [
-   "Naik",
-   "Volume"
-  ],
-  "BBHI": [
-   "Naik",
-   "Volume"
-  ],
-  "BMTR": [
-   "Naik",
-   "SuperTrend"
-  ],
-  "BYAN": [
-   "Naik",
-   "SuperTrend",
-   "Volume"
-  ],
-  "IDEA": [
-   "Breakout",
-   "Naik"
-  ],
-  "ISAT": [
-   "Naik",
-   "Volume"
-  ],
-  "MPXL": [
-   "Breakout",
-   "Naik",
-   "Volume"
-  ],
-  "NAYZ": [
+  "BTPS": [
    "Breakout",
    "Volume"
   ],
-  "NZIA": [
+  "KDTN": [
    "Naik",
    "Volume"
   ],
-  "PWON": [
+  "KOTA": [
+   "Naik",
+   "Volume"
+  ],
+  "MSIN": [
+   "Naik",
+   "Volume"
+  ],
+  "NASI": [
+   "Naik",
+   "Volume"
+  ],
+  "TMPO": [
+   "Naik",
+   "Volume"
+  ],
+  "UNVR": [
    "Breakout",
-   "Volume"
-  ],
-  "SMRA": [
-   "Breakout",
-   "Volume"
-  ],
-  "SOLA": [
-   "Naik",
-   "Volume"
-  ],
-  "TEBE": [
-   "Naik",
-   "Volume"
-  ],
-  "TRON": [
-   "Naik",
-   "Volume"
-  ],
-  "UNIQ": [
-   "Naik",
-   "Volume"
-  ],
-  "WMUU": [
-   "Naik",
    "Volume"
   ]
  }
