@@ -1,7 +1,11 @@
 {
- "date": "2026-11-26",
+ "date": "2026-11-27",
  "sent": {
-  "AADI": [
+  "ALII": [
+   "Naik",
+   "Volume"
+  ],
+  "BRMS": [
    "Naik",
    "Volume"
   ],
@@ -9,33 +13,12 @@
    "Naik",
    "Volume"
   ],
-  "CDIA": [
-   "Naik",
-   "SuperTrend",
-   "Volume"
-  ],
-  "CYBR": [
-   "Naik",
-   "Volume"
-  ],
-  "GULA": [
-   "Breakout",
-   "Volume"
-  ],
-  "IDEA": [
-   "Breakout",
-   "Naik"
-  ],
-  "INDO": [
+  "BUMI": [
    "Breakout",
    "Naik",
    "Volume"
   ],
-  "IRSX": [
-   "Naik",
-   "Volume"
-  ],
-  "KDTN": [
+  "DKHH": [
    "Naik",
    "Volume"
   ],
@@ -44,23 +27,12 @@
    "Naik",
    "Volume"
   ],
-  "NASI": [
+  "SUPA": [
    "Breakout",
-   "Naik",
-   "SuperTrend",
-   "Volume"
+   "SuperTrend"
   ],
-  "OASA": [
-   "Breakout",
+  "TRIN": [
    "Naik",
-   "Volume"
-  ],
-  "TOBA": [
-   "Naik",
-   "Volume"
-  ],
-  "UNIQ": [
-   "Breakout",
    "Volume"
   ]
  }
